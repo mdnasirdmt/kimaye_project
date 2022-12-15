@@ -30,7 +30,7 @@ A collaborative project built by a team of 6 executed in 5days.
 - Functionality to make a payment
 
 ## Team Members
-- [Aman Verma](https://github.com/aman1517)
+- [Md Nasir Uddin](https://github.com/mdnasirdmt)
 - [Vipin Awadhiya](https://github.com/Vipin115)
 - [Meghna Singh](https://github.com/Meghna9027)
 - [Vishnu PS](https://github.com/VishnuPScodes)
